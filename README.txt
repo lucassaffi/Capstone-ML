@@ -1,6 +1,6 @@
-Machine Learning Engineer Nanodegree
+# Machine Learning Engineer Nanodegree
 
-Capstone Project
+# Capstone Project
 
 For the development of this project Jupyter Notebook was used and the following libraries were necessary:
  - Numpy
